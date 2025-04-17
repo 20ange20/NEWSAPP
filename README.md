@@ -1,4 +1,5 @@
 NewsApp
+[Abrir App.js](./App.js)
 
 É um Aplicativo que mostra as notícias relacionadas ao Brasil, desenvolvido com Expo e React Native, uszando a API do NewsAPI.org (https://newsapi.org/). É Inspirado em apps como o G1, com foco em design limpo. Faz uma requisição à NewsAPI e renderiza os dados em forma de cards.
 
